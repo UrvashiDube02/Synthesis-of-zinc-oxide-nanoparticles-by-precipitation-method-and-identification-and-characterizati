@@ -49,11 +49,13 @@ After the calcination was done, white powder of zinc oxide nanoparticle formed w
 
 ![image](https://user-images.githubusercontent.com/87383888/125509021-09df28ac-83e9-4813-81e2-517d27ca07d1.png)
 
+
 **X-RAY DIFFRACTION ANALYSIS**
 
 In XRD technique, a scattering of X-rays by the atoms of a crystal is done that produces an interference effect so that the diffraction pattern gives information on the structure of the crystal or the identity of a crystalline substance.
 
 ![image](https://user-images.githubusercontent.com/87383888/125509160-497492da-016a-4c1d-84e5-033f02d65092.png)
+
 
 **OUTPUT (Graph of calcined samples so obtained)**
 
@@ -77,9 +79,11 @@ K is a dimensionless shape factor, with a value close to unity. The shape factor
 
 ![image](https://user-images.githubusercontent.com/87383888/125509524-b938eb9d-929b-4a96-a827-a902c38b827f.png)
 
+
 **CONCLUSION**
 
 After applying Scherrer’s equation, we found out that the particle size of the zinc oxide nanoparticle increased with increase in time in which it was calcined. We infer that the results are verified practically from the graph of XRD analysis and theoretically from Scherrer’s equation. Hence, in this study the zinc oxide nanoparticles were successfully synthesized by direct precipitation method using zinc nitrate as zinc source and KOH as precipitating agent in aqueous solution and finally zinc oxide nanoparticles were characterized by XRD (X-Ray Diffraction) analysis. The potential advances for non-medicinal applications even surpass that of the current medicinal uses. Zinc Oxide Nanorod Sensors, Spintronics, and Piezoelectricity are all very promising fields and ones to keep an eye on in the not too distant future. Zinc is an indispensable inorganic element universally used in medicine, biology and in industrial sectors. It is an essential constituent in bones, teeth, functional proteins and many useful enzymes. As zinc oxide nanoparticles are used in various spheres of science, it proves that it is an indispensable substance which has proved to be equally important to man as well as animals. But just as a coin has two sides, it has also some demerits. Long time exposure of the nanoparticles with higher concentration can be harmful to the living system.
+
 
 **APPENDIX**
 
@@ -87,11 +91,13 @@ After applying Scherrer’s equation, we found out that the particle size of the
 
 ![image](https://user-images.githubusercontent.com/87383888/125509860-46c34719-c266-4a9c-a274-61e3410f27c3.png)
 
+
 **SOME MORE IMAGES DURING IMPLEMENTATION**
 
 ![image](https://user-images.githubusercontent.com/87383888/125509985-066aa091-e11a-437c-adc0-65bb7036c16f.png)
 
 ![image](https://user-images.githubusercontent.com/87383888/125510007-158c62c5-e900-4e00-82e0-59a300c55ece.png)
+
 
 **SOME MORE PROPERTIES OF ZINC OXIDE NANOPARTICLE**
 
